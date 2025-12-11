@@ -23,7 +23,7 @@ O projeto foi baseado na documentação oficial do protocolo MCP:
 👉 [https://modelcontextprotocol.io](https://modelcontextprotocol.io)
 
 
-OBSERVAÇÃO: Embora eu tenha adicionado alguns testes unitários, é evidente que eles não cobrem todo o projeto, pois isso levaria um tempo mais longo do que o aceitável para um Desafio para vaga de emprego.
+OBSERVAÇÃO: Embora eu tenha adicionado alguns testes unitários, é evidente que eles não cobrem todo o projeto, pois isso levaria um tempo mais longo do que o aceitável para um teste rápido.
 
 ## LLM utilizado
 
