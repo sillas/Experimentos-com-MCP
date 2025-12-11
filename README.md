@@ -113,14 +113,9 @@ Após configurar os ambientes virtuais:
 source .venv/Scripts/activate  # Linux/macOS: .venv/bin/activate
 ```
 
-### Servidor MCP:
+### Executar:
 
 ```bash
-uv run main.py
-```
-
-### Cliente MCP:
-
-```bash
+# Executar em cada diretório
 uv run main.py
 ```
